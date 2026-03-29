@@ -1,30 +1,27 @@
-# ⚡ Hi, I'm Teju Giri (@1233-check)
+# ⚡ Teju Giri (@1233-check)
+**Full-Stack Developer | AI Swarm Commander | 24/7 Shipper**
 
-**Full-Stack Developer | AI Swarm Architect | Automation Enthusiast**
+Traditional computer science moves a bit too slow for my taste, so I traded the university classroom for a local server and a mesh network. Operating out of Greater Noida, I build, break, and deploy production-ready software at lightspeed. 
 
-I left my B.Tech CSE program because the real world moves a lot faster than the classroom. Operating out of Greater Noida, I’ve transitioned from international pre-sales and customer support into an independent developer who builds differently. 
+I don't just type code anymore—I orchestrate it. I act as the CTO of my own 24/7 autonomous digital agency, commanding a synchronized swarm of Claude and Gemini agents to build full-stack architecture while I'm AFK. 
 
-Instead of just writing code, I orchestrate 24/7 multi-agent AI environments (leveraging Claude and Gemini) to design, build, and ship production-ready software at scale. I treat development less like typing and more like directing a high-output digital agency.
+### 🚀 The Active Quest Board
+* **The Swarm Engine:** Engineering a gamified Mission Control dashboard to track my AI workforce, complete with real-time XP tracking and secure Tailscale tunneling.
+* **High-Octane Frontends:** Shipping hyper-optimized Next.js and React platforms (currently routing heavy local transit traffic for hospitality clients in Gaur Yamuna City).
+* **Marketplace Architecture:** Structuring complex databases for dual-sided service apps and local quick-commerce platforms. 
+* **Check's Playbook:** Documenting my AI workflows and exploring digital mysteries on YouTube.
 
-### 🚀 Current Quests & Deployments
-* **The AI Swarm:** Architecting a gamified, local "Mission Control" dashboard with secure Tailscale tunnels to manage autonomous, parallel AI agents.
-* **Rapid App Development:** Building scalable full-stack solutions, including quick-commerce clones, dual-sided service marketplaces for Dimapur, and automated social media marketing dashboards for architecture firms.
-* **High-Conversion Web:** Deploying SEO-optimized Next.js and React platforms with deep JSON-LD schema markup for luxury catering services and regional hospitality businesses (like PCH in Gaur Yamuna City).
-* **Content Creation:** Uncovering AI workflows and digital mysteries on my YouTube channel, **Check's Playbook**.
+### ⚙️ The Arsenal
+* **The Brains:** Custom rate-limit routing with Claude 3.5 Sonnet (for heavy UI architecture) and Gemini 3.1 Pro (for backend logic & Agentic SEO).
+* **The Stack:** React, Next.js, Tailwind CSS, Node.js, Python.
+* **The Network:** Tailscale mesh networks, automated web scrapers, and local DBs.
 
-### 🛠️ The Tech Arsenal
-* **Frontend:** React, Next.js, Tailwind CSS, Framer Motion
-* **Backend & Systems:** Node.js, Python, REST APIs, Web Scraping
-* **AI Orchestration:** Anthropic API (Claude 3.5), Google AI Studio (Gemini 3.1 Pro), Custom Rate-Limit Routing
-* **Infrastructure:** Tailscale, Local DBs, Secure Tunneling
+### 🌍 When the Agents are Coding...
+You can usually find me stepping away from the monitors to:
+* Analyze crypto charts and mining rig optimizations.
+* Experiment with live visual projection mapping.
+* Plot my next international trip on a hacker's budget.
 
-### 📡 Beyond the Code
-When I'm not managing my AI agents or pushing code, I'm usually:
-* Researching crypto trading and mining profitability.
-* Exploring projection mapping techniques.
-* Plotting budget-friendly international travel itineraries.
-
-### 📫 Let's Connect
-Whether you want to talk about autonomous AI environments, web architecture, or your next big project, my inbox is open.
-
+### 🤝 Ping the Server
+Always down to talk about complex AI orchestration, web architecture, or how to bypass the limits of traditional development.
 * 📧 **Email:** [tejugiri549@gmail.com](mailto:tejugiri549@gmail.com)
