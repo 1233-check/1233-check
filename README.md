@@ -20,7 +20,7 @@ I don't just type code anymore—I orchestrate it. I act as the CTO of my own 24
 You can usually find me stepping away from the monitors to:
 * Analyze crypto charts and mining rig optimizations.
 * Experiment with live visual projection mapping.
-* Plot my next international trip on a hacker's budget.
+* Plot my next trip on a hacker's budget.
 
 ### 🤝 Ping the Server
 Always down to talk about complex AI orchestration, web architecture, or how to bypass the limits of traditional development.
